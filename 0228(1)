@@ -1,0 +1,4 @@
+print("""\t\t\t1
+\t\t1\t\t1
+\t1\t\t2\t\t1
+1\t\t3\t\t3\t\t1""")
