@@ -1,0 +1,8 @@
+for y in range(3):
+    print(3-y, end=" ")
+print( )
+for y in range(4):
+    print(4-y, end=" ")
+print( )
+for y in range(5):
+    print(5-y, end=" ")
