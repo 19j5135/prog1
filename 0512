@@ -1,0 +1,2 @@
+for y in range(9):
+    print(y+1, end=" ")
