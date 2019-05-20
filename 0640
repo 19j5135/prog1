@@ -1,0 +1,5 @@
+for x in range(1,16):
+    if(1<=x<=3 or (4<=x<=9 and 7<=x<=12) or 13<=x<=15):
+        print(x, end=" ")
+    else:
+        print("*", end=" ")
