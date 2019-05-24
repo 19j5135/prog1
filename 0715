@@ -1,0 +1,10 @@
+n=6
+r=4
+bunbo=1
+for x in range(2,n):
+    bunbo=bunbo+x
+bunshi=1
+for y in range(r+1,7):
+    bunshi=r-bunshi
+c=bunbo/bunshi
+print(c)
