@@ -1,0 +1,9 @@
+def ave_n(a):
+    s=0
+    for x in range(len(a)):
+        s=s+a[x]
+    r=s/a[x]
+    return r
+a=[1,2,3,4,5,6,7,8]
+r=ave_n(a)
+print("average is",r)
